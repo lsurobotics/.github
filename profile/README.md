@@ -1,6 +1,6 @@
 # Welcome!
 
-This is the official organization of the Applied Software Engineering Laboratory at Louisiana State University
+This is the official organization of the Applied Software Engineering Laboratory at Louisiana State University.
 <!--
 
 **Here are some ideas to get you started:**

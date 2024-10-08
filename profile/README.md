@@ -1,6 +1,6 @@
 # Welcome!
 
-This is the Software Engineering and Robotics (SER) laboratory at Louisiana State University.
+This is the Software Engineering and Robotics laboratory at Louisiana State University.
 <!--
 
 **Here are some ideas to get you started:**
